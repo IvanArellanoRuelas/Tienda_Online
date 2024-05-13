@@ -1,4 +1,4 @@
-Video YouTobe: https://youtu.be/vuHDgQXGmoE
+Video YouTobe: https://www.youtube.com/watch?v=vuHDgQXGmoE
 
 # React + Vite
 
